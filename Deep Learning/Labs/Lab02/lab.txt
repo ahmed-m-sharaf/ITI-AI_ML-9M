@@ -1,0 +1,19 @@
+The second assignment consists of two parts.
+
+
+CNN for Fashion MNIST
+This is a continuation of the first assignment.
+
+Instructions
+Apply the same instructions in Fashion MNIST notebook but with CNN instead of MLP. Notebook link: https://github.com/aielawady/dl_course/blob/main/l1/fashion_mnist_assignment.ipynb
+Compare the result of the CNN with the previous result obtained with MLP.
+Arabic Sign Language
+In this assignment you'll create a notebook from scratch to experiment with this dataset https://www.kaggle.com/datasets/aielawady/arsl-256.
+
+Instructions
+Create a dataloader to use in the training.
+Build VGG16 model without BatchNormalization and train the model. Please add a link to reference used to obtain information about VGG16 in the notebook. DON'T USE THE MODEL WE BUILT IN THE SESSION AS A REFERENCE.
+Add BatchNormalization to the VGG16 and compare the result before and after.
+Add data augmentation and compare the result.
+Summarize and explain the effect of the changes made in each step.
+Make sure you deliver two notebooks and the exported PDFs of these notebooks.
