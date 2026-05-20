@@ -1,0 +1,8 @@
+- Use a GPU notebook, such as Google Colab or Kaggle.
+- Import the required libraries.Load the  dataset from Hugging Face.
+- Inspect sample records and check class balance.
+- Preprocess the data for fine-tuning, including tokenization and label alignment.
+- Fine-tune the model.
+- Save the trained weights and make predictions.
+- Quantize the model and compare its performance with the baseline.
+- Write the final conclusion.
